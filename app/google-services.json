@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62104741023",
+    "firebase_url": "https://chattingapps-9d8d2.firebaseio.com",
+    "project_id": "chattingapps-9d8d2",
+    "storage_bucket": "chattingapps-9d8d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62104741023:android:9637e35ace463378e7eeaa",
+        "android_client_info": {
+          "package_name": "com.adelia.nanggolan.chattingapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62104741023-jhetqsf8udnalu6ueh93nj9s5ag67cs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adelia.nanggolan.chattingapps",
+            "certificate_hash": "8b1a43074432d1e7c0c302b475b1a4cd5260828a"
+          }
+        },
+        {
+          "client_id": "62104741023-obl0pq5k3kk3v1jgkmvor0vt27cjrebk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADhyK2zh6tnZVB8BUEfAzzL8eI0Kjnj4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62104741023-obl0pq5k3kk3v1jgkmvor0vt27cjrebk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
